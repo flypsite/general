@@ -1,7 +1,5 @@
-# Hallo Flyp User
+# FlypSite GitHub
 
-Dies ist der Ort, wo ihr eure Bug-Reports hinterlassen könnt. Rechts neben diesem Text auf (!) "Issues" klicken und dann mit "New Issue" einen Report anlegen. Wir kümmern uns drum.
+Herzlich Willkommen im FlypSite GitHub. Dies ist der öffentliche Teil des FlypSite GitHub Accounts wo wir planen, Codebeispiele und Anleitungen zur Verfügung zu stellen. Kunden und Freunde von FlypSite können Zugang zum nicht-öffentlichen Community-Repository bekommen, wo wir u.A. auch Bug-Reports verwalten.
 
-Hier gibt es Infos zum GitHub Ticket System: https://guides.github.com/features/issues/
-
-Euer FlypSite-Team
+**Flyp On, Flyp Out, FlypSite**
