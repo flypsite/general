@@ -18,6 +18,6 @@ Welcome to the FlypSite github. This is the public part of the flypsite githab a
 * wiki
 * code examples
 
-** Flyp On, Flyp Out, FlypSite**
+**Flyp On, Flyp Out, FlypSite**
 
 **Greetings from the flypsite team!**
