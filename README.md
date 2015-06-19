@@ -10,11 +10,14 @@ Herzlich Willkommen im FlypSite-GitHub. Dies ist der öffentliche Teil des FlypS
 
 **Das FlypSite-Team**
 
+---
 
 Welcome to the FlypSite github. This is the public part of the flypsite githab account, featuring
 
 * bug reporting / issue tracking
 * wiki
 * code examples
+
+** Flyp On, Flyp Out, FlypSite**
 
 **Greetings from the flypsite team!**
