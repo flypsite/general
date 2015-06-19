@@ -4,7 +4,7 @@ Herzlich Willkommen im FlypSite-GitHub. Dies ist der öffentliche Teil des FlypS
 
 * [Bugreporting/Issuetracking.](../../issues)
 * [Wiki](../../wiki)
-* Codebeispiele
+* Codebeispiele (siehe die Dateiliste oben)
 
 **Flyp On, Flyp Out, FlypSite**
 
@@ -16,7 +16,7 @@ Welcome to the FlypSite github. This is the public part of the flypsite githab a
 
 * [bug reporting / issue tracking](../../issues)
 * [wiki](../../wiki)
-* code examples
+* code examples (see file listing above)
 
 **Flyp On, Flyp Out, FlypSite**
 
