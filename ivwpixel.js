@@ -9,7 +9,7 @@
 /****************************************************
 getPixel() is called on various flypsite events,
 with param values as follows:
-- "slide-NN" > slide shown inslideshow
+- "slide-NN" > slide NN shown in slideshow
 - "comments" > comments area opened, comment sent
 - "overlay"  > overlay opened
 - "more-messages" > paging triggered
