@@ -1,7 +1,20 @@
 # FlypSite GitHub
 
-Herzlich Willkommen im FlypSite GitHub. Dies ist der öffentliche Teil des FlypSite GitHub Accounts wo wir planen, Codebeispiele und Anleitungen zur Verfügung zu stellen. Kunden und Freunde von FlypSite können Zugang zum nicht-öffentlichen Community-Repository bekommen, wo wir u.A. auch Bug-Reports verwalten. Wer einen Zugang möchte kann ein Ticket in diesem Repository hinterlassen, wir melden uns dann.
+Herzlich Willkommen im FlypSite-GitHub. Dies ist der öffentliche Teil des FlypSite-GitHub-Accounts, featuring:
+
+* Bugreporting/Issuetracking. 
+* Wiki
+* Codebeispiele
 
 **Flyp On, Flyp Out, FlypSite**
 
 **Das FlypSite-Team**
+
+
+Welcome to the FlypSite github. This is the public part of the flypsite githab account, featuring
+
+* bug reporting / issue tracking
+* wiki
+* code examples
+
+** Greetings from the flypsite team!**
