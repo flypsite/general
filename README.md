@@ -17,4 +17,4 @@ Welcome to the FlypSite github. This is the public part of the flypsite githab a
 * wiki
 * code examples
 
-** Greetings from the flypsite team!**
+**Greetings from the flypsite team!**
