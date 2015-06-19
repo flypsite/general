@@ -5,13 +5,18 @@
 // HTML injection in the HEAD or BODY section
 
 <script type="text/javascript">
+
+/****************************************************
+getPixel() is called on various flypsite events,
+with param values as follows:
+- "slide-NN" > slide shown inslideshow
+- "comments" > comments area opened, comment sent
+- "overlay"  > overlay opened
+- "more-messages" > paging triggered
+*****************************************************/
+
 function getPixel(param) {
 	// console.log(param);
-	// param may have the values:
-	// "slide-NN" > slide shown inslideshow
-	// "comments" > comments area opened, comment sent
-	// "overlay"  > overlay opened
-	// "more-messages" > paging triggered
 	var iam_data = { 
 		"st":"{YOUR OWN SITE ID}",
 		"cp":"{YOUR OWN CP-CODE}"
