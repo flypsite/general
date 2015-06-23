@@ -12,7 +12,7 @@ Herzlich Willkommen im FlypSite-GitHub. Dies ist der öffentliche Teil des FlypS
 
 ---
 
-Welcome to the FlypSite github. This is the public part of the flypsite githab account, featuring
+Welcome to the FlypSite github. This is the public part of the flypsite github account, featuring
 
 * [bug reporting / issue tracking](../../issues)
 * [wiki](../../wiki) and [manual](../../wiki/FlypSite-Handbuch)
