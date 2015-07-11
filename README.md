@@ -2,7 +2,7 @@
 
 Herzlich Willkommen im FlypSite-GitHub. Dies ist der öffentliche Teil des FlypSite-GitHub-Accounts, featuring:
 
-* [Bugreporting/Issuetracking.](../../issues)
+* [Bugreporting/Issuetracking.](../../issues). Tipp: Mit GitHub-Anmeldung können Sie die Liste der Isuues verfolgen (Mail-Benachrichtigung!), indem Sie auf "watch" klicken.
 * [Wiki](../../wiki), [Handbuch](../../wiki/FlypSite-Handbuch) und [Release Notes](../../wiki/Release-Notes)
 * Codebeispiele (siehe die Dateiliste oben)
 
